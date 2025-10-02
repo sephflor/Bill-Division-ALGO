@@ -1,1 +1,1 @@
-# Bill-Division-ALGO
+# Bill-Division-ALGO.This program calculates whether Anna was overcharged for a shared meal by excluding the item she didn't eat (index k) and comparing her actual charge (b) to her fair share. If she was overcharged, it prints the difference; otherwise, it prints "Bon Appetit".
